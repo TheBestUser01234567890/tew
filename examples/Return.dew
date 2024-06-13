@@ -1,0 +1,8 @@
+using BasicBlocks;
+using Return;
+onGreenFlag{
+    say (hello);
+};
+func hello{
+   return ("Hello World!") 
+};
